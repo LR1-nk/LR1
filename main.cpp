@@ -1,3 +1,4 @@
+//LR1
 #include "sdt.h"
 
 int main() {
